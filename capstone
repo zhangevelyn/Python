@@ -1,0 +1,6 @@
+#this notebook will be mainly used for the capstone project.
+
+import panda as pd        #Import the pandas library as pd.
+
+import numpy as np         #Import the Numpy library as np.
+print('Hello Capstone Project Course!')                #Print the following the statement: Hello Capstone Project Course!
